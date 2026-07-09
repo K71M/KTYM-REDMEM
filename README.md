@@ -17,14 +17,14 @@
 Así es como luce el optimizador en acción. Limpieza absoluta, interfaz completamente centrada y reportes precisos en tiempo real:
 
 <p align="center">
-  <img src="./assets/Captura de pantalla 2026-07-09 140626" width="85%" alt="Console UI Interface">
+  <img src="./assets/TM.png" width="85%" alt="Console UI Interface">
 </p>
 
 ### Real-Time Performance Drop
 Mira cómo impacta directamente en el Administrador de Tareas, liberando la memoria Standby y el caché oculto de Windows de forma inmediata:
 
 <p align="center">
-  <img src="./assets/Captura de pantalla 2026-07-09 140613" width="85%" alt="Task Manager Drop">
+  <img src="./assets/RD.png" width="85%" alt="Task Manager Drop">
 </p>
 
 ---
